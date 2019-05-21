@@ -32,6 +32,7 @@ Tambien es recomendado descargar [Anaconda](https://www.anaconda.com/distributio
 
 ![alt text](https://i.ibb.co/7kKyH4S/Screenshot-2019-05-21-Anaconda-Python-R-Distribution-Anaconda.png)
 ![alt text](https://cyberhulk.net/wp-content/uploads/2017/10/anaconda-navigator.png)
+![alt text](https://i.ibb.co/0JpnMFb/Screenshot-2019-05-21-1-Predicting-Revenue-Using-Simple-Linear-Regression.png)
 
 
 
@@ -45,8 +46,8 @@ Tambien es recomendado descargar [Anaconda](https://www.anaconda.com/distributio
 
 ## Authors
 
-* **Ibo Cerra* 
-* **Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
+ **Ibo Cerra* 
+ **Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
 
 
 ## License
