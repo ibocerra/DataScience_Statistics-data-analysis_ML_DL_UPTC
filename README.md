@@ -25,6 +25,8 @@ TensorFlow
 
 Para obtener los archivos almacenados en este repositorio es necesario tener instalado [Git](https://git-scm.com/) y clonar el respositorio de esta forma:
 
+![alt text](https://i.ibb.co/nBk5Zcz/Screenshot-2019-05-21-Git.png)
+
 ```
 git clone https://github.com/lcarcamo1526/Machine-Learning-UPTC.git
 ```
