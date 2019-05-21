@@ -46,8 +46,10 @@ Tambien es recomendado descargar [Anaconda](https://www.anaconda.com/distributio
 
 ## Authors
 
- **Ibo Cerra* 
- **Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
+
+ 
+ * *Ibo Cerra*  - [lcarcamo1526](https://github.com/lcarcamo1526)
+ * *Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
 
 
 ## License
