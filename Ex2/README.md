@@ -13,12 +13,14 @@ According the Exercise 1 we are going to apply the same linear regression algori
 
 ```
 
-#### Step 1 Login into AZURE-ML
+#### Step 1 Login and load Dataset into AZURE-ML
+
+Log in Azure-ML account then go to Dataset and click on new
 ![](https://codingsight.com/wp-content/uploads/2018/01/1.png)
 
+Browse the files from the computer and upload our Excel or CSV file to Azure Machine Learning storage. We are going to use this dataset as a training model in our project.
 
-
-
+![](https://codingsight.com/wp-content/uploads/2018/01/2.png)
 
 ## Authors
 
