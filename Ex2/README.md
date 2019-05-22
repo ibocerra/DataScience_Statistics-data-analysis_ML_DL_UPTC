@@ -1,54 +1,25 @@
-# Seminario en Machine Learning UPTC
+# Exercise 2 - Azure ML
 
-El seminario está diseñado para presentar cómo las principales técnicas de Big Data, Machine Learning y DeepLearning aportan a la solución de problemas típicos de la Era de Big Data en los sectores Financiero, Retail y Educación.
-Las prácticas serán realizadas usando las principales tecnologías que nos ofrecen las principales Nubes: Azure, AWS y GCP. En donde serán provisionados los laboratorios para el desarrollo de los talleres.
+According the Exercise 1 we are going to apply the same linear regression algorithm with the iceCream dataset using Azure ML studio
 
-## Getting Started
-
-En este repositorio se encontraran todos los materiales de las sesiones con su respectivo codigo fuente organizado por numero de ejercicios
 
 ### Prerequisites
 
 ```
-Conda
-Numpy
-Git
-Pandas
-Jupyter Notebooks
-Plotly
-Seaborn
-Matplotlib
-TensorFlow
+
+   1) Azure Machine Learning Studio account
+   2) Sample csv data. 
+
+
 ```
 
-### Installing
+#### Step 1 Login and load Dataset into AZURE-ML
 
-Para obtener los archivos almacenados en este repositorio es necesario tener instalado [Git](https://git-scm.com/) y clonar el respositorio de esta forma:
+Log in Azure-ML account then go to Dataset and click on new, browse your dataset file and upload our Excel or CSV file. We are going to use this dataset as a training model
 
-![alt text](https://i.ibb.co/nBk5Zcz/Screenshot-2019-05-21-Git.png)
-
-```
-git clone https://github.com/lcarcamo1526/Machine-Learning-UPTC.git
-```
-Tambien es recomendado descargar [Anaconda](https://www.anaconda.com/distribution/) con el fin de facilitar la instalacion de dependencias y Librerias. 
-
-![alt text](https://i.ibb.co/7kKyH4S/Screenshot-2019-05-21-Anaconda-Python-R-Distribution-Anaconda.png)
-![alt text](https://cyberhulk.net/wp-content/uploads/2017/10/anaconda-navigator.png)
-![alt text](https://i.ibb.co/0JpnMFb/Screenshot-2019-05-21-1-Predicting-Revenue-Using-Simple-Linear-Regression.png)
-
-
-
-## Built With
-
-* [Python](http://www.python.org/) 
-* [Conda](https://anaconda.org/anaconda/conda) 
-* [tensorFlow](https://www.tensorflow.org/) 
-* [Jupyter Notebooks](https://jupyter.org/)- 
 
 
 ## Authors
-
-
  
  * *Ibo Cerra* 
  * *Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
