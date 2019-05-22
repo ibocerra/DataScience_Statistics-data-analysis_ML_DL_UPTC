@@ -47,9 +47,20 @@ After split data we need choose and train our model, in this case is clearly Lin
 
 To train our model we need a dependable value, in this case es Revenue column, to add this column in your model, click in the train model section, and launch column selector, after that add a new rule choose the column name that we wanna predict, in this case Revenue.
 
-After that add a "score model" and "Model evaluator" components to main window and connect the test dataset (The 1/4 splitted from the original data set) to model score, then add a relation with model evaluator, the click run or F5. 
+After that add a "score model" and "Model evaluator" components to main window and connect the test dataset (The 1/4 splitted from the original data set) to model score, then add a relation between model score with model evaluator, then click run or F5. 
 
 ![](https://raw.githubusercontent.com/lcarcamo1526/Machine-Learning-UPTC/master/Ex2/Gif/5.gif)
+
+
+After that we can see that our model has sucessfully trained and has a accuracy of 0.98 the same result in Ex1
+![](https://i.ibb.co/0FzvGTL/Screenshot-2019-05-22-Experiments-Microsoft-Azure-Machine-Learning-Studio-2.png)
+
+
+#### Question
+* How can we predict using this trained model new data?
+* Predict the following values: [33.5 ,25.8 ,20.75 ,37.5 ,9.1] and compare with the result of Ex1
+
+
 
 ## Authors
  
