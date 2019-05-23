@@ -34,6 +34,7 @@ Tambien es recomendado descargar [Anaconda](https://www.anaconda.com/distributio
 
 ![alt text](https://i.ibb.co/7kKyH4S/Screenshot-2019-05-21-Anaconda-Python-R-Distribution-Anaconda.png)
 ![alt text](https://cyberhulk.net/wp-content/uploads/2017/10/anaconda-navigator.png)
+![alt text](https://raw.githubusercontent.com/lcarcamo1526/Machine-Learning-UPTC/master/Ex1/img/0.gif)
 ![alt text](https://i.ibb.co/0JpnMFb/Screenshot-2019-05-21-1-Predicting-Revenue-Using-Simple-Linear-Regression.png)
 
 
