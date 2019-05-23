@@ -56,7 +56,7 @@ After that we can see that our model has sucessfully trained and has a accuracy 
 ![](https://i.ibb.co/0FzvGTL/Screenshot-2019-05-22-Experiments-Microsoft-Azure-Machine-Learning-Studio-2.png)
 
 
-#### Question
+## Question
 * How can we predict using this trained model new data?
 * Predict the following values: [33.5 ,25.8 ,20.75 ,37.5 ,9.1] and compare with the result of Ex1
 
