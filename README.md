@@ -35,13 +35,6 @@ TensorFlow
 
 
 
-## Built With
-
-* [Python](http://www.python.org/) 
-* [Conda](https://anaconda.org/anaconda/conda) 
-* [tensorFlow](https://www.tensorflow.org/) 
-* [Jupyter Notebooks](https://jupyter.org/)- 
-
 
 ## Authors
  * *Ibo Cerra* 
