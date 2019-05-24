@@ -1,4 +1,4 @@
-# Exercise 2 - Azure ML
+# Exercise 1 - Azure ML
 
 According the Exercise 1 we are going to apply the same linear regression algorithm with the iceCream dataset using Azure ML studio
 
