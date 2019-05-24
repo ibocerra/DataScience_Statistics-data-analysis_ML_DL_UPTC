@@ -5,7 +5,7 @@ Las prácticas serán realizadas usando las principales tecnologías que nos ofr
 
 En este repositorio se encontraran todos los materiales de las sesiones con su respectivo codigo fuente organizado por numero de ejercicios
 
-### Algunas tecnologias del horizonte a utilizar:
+### Algunas tecnologias del horizonte Big Data a utilizar:
 
 ```
 Conda
