@@ -1,6 +1,9 @@
 # Exercise 1 - Azure ML
 
-According the Exercise 1 we are going to apply the same linear regression algorithm with the iceCream dataset using Azure ML studio
+You own an ice cream business and you would like to create a model that could predict the daily revenue in dollars based on the outside air temperature (C). You decide that a Linear Regression model might be a good candidate to solve this problem.  
+Data set:
+- Independant variable X: Outside Air Temperature
+- Dependant variable Y: Overall daily revenue generated in dollars 
 
 
 ### Prerequisites
