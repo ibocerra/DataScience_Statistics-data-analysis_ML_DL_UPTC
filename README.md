@@ -1,4 +1,4 @@
-# Seminario en Machine Learning UPTC
+# Big Data UPTC
 
 El seminario está diseñado para presentar cómo las principales técnicas de Big Data, Machine Learning y DeepLearning aportan a la solución de problemas típicos de la Era de Big Data en los sectores Financiero, Retail y Educación.
 Las prácticas serán realizadas usando las principales tecnologías que nos ofrecen las principales Nubes: Azure, AWS y GCP. En donde serán provisionados los laboratorios para el desarrollo de los talleres.
