@@ -5,7 +5,7 @@ Las prácticas serán realizadas usando las principales tecnologías que nos ofr
 
 En este repositorio se encontraran todos los materiales de las sesiones con su respectivo codigo fuente organizado por numero de ejercicios
 
-### Algunas tecnologias del horizonte a utilizar:
+### Algunas tecnologias del horizonte Big Data a utilizar:
 
 ```
 Conda
@@ -34,13 +34,6 @@ TensorFlow
 ![alt text](https://i.ibb.co/0JpnMFb/Screenshot-2019-05-21-1-Predicting-Revenue-Using-Simple-Linear-Regression.png)
 
 
-
-## Built With
-
-* [Python](http://www.python.org/) 
-* [Conda](https://anaconda.org/anaconda/conda) 
-* [tensorFlow](https://www.tensorflow.org/) 
-* [Jupyter Notebooks](https://jupyter.org/)- 
 
 
 ## Authors
