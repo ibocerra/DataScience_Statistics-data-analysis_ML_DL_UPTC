@@ -44,9 +44,6 @@ TensorFlow
 
 
 ## Authors
-
-
- 
  * *Ibo Cerra* 
  * *Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
 
