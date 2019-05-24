@@ -20,8 +20,7 @@ Data set:
 
 Log in Azure-ML account then go to Dataset and click on new, browse your dataset file and upload our Excel or CSV file. We are going to use this dataset as a training model
 
-![](https://raw.githubusercontent.com/lcarcamo1526/Machine-Learning-UPTC/master/Ex2/Gif/1.gif)
-
+![](https://raw.githubusercontent.com/ibocerra/BigDataEsp-UPTC/master/Taller1/Gif/1.gif)
 #### Step #2: Create new experiment and load data
 
 Click on Experiment, create a new experiment and choose blank template, then go to left bar and select saved data and drag and drop to the map the data set, or simply double-click in Icecream.csv then select IceCream at the main window and choose to visualize data.
