@@ -40,7 +40,7 @@ TensorFlow
 
 
 ## Authors
- * *Ibo Cerra* 
+ * * Sci-TIC Analytica LTE - IboCerra Msc,Esp.OCA OCP
  * *Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
 
 
