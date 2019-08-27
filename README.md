@@ -40,8 +40,8 @@ TensorFlow
 
 
 ## Authors
- * * Sci-TIC Analytica LTE - IboCerra Msc,Esp.OCA OCP
- * *Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
+ * * ![alt text] (https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhyoL39qHkAhVuoFkKHVMYAK8QjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fmarcaregistrada.co%252F%26psig%3DAOvVaw3_resqIPQ6JMVqrnHcafqU%26ust%3D1566956753534744&psig=AOvVaw3_resqIPQ6JMVqrnHcafqU&ust=1566956753534744) Sci-TIC Analytica LTE - IboCerra Msc,Esp.OCA OCP
+ * * Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
 
 
 ## License
