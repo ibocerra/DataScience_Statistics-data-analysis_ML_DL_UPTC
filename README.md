@@ -40,7 +40,7 @@ TensorFlow
 
 
 ## Authors
- * * ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RegisteredTM.svg/220px-RegisteredTM.svg.png) Sci-TIC Analytica LTE - IboCerra Msc,Esp.OCA OCP
+ * *  ® Sci-TIC Analytica LTE - IboCerra Msc,Esp,OCA-OCP
  * * Luis Carcamo*  - [lcarcamo1526](https://github.com/lcarcamo1526)
 
 
