@@ -1,4 +1,4 @@
-# Big Data UPTC
+# Tecnicas analiticas para Ciencia de Datos 
 
 El seminario está diseñado para presentar cómo las principales técnicas de Big Data que aportan a la solución de problemas típicos de la Era de Big Data en los sectores Financiero, Retail y Educación.
 
